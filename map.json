@@ -144,7 +144,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.3.3",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -894,9 +894,35 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":321,
+         "image":"plakatebecherbier.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"plakatebecherbier",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":32,
+         "firstgid":577,
+         "image":"logos_different.png",
+         "imageheight":1048,
+         "imagewidth":1048,
+         "margin":0,
+         "name":"logos_different",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.2,
+ "version":1.4,
  "width":46
 }
