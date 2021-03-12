@@ -25,7 +25,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/wdr-edge-2015-fra-lg-cdn.cast.addradio.de\/wdr\/1live\/live\/mp3\/128\/stream.mp3"
+                 "value":"https:\/\/br-edge-3009-dus-ts-cdn.cast.addradio.de\/br\/br1\/obb\/mp3\/mid?ar-distributor=ffa0&_art=dj0yJmlwPTkxLjY1LjI0MC42MSZpZD1pY3NjeGwtaG9xZmFtbm9iJnQ9MTYxNTY0NTY5NyZzPTc4NjZmMjljIzY0ZjI0ODIwZGU1YmQ1NTY1NWU1MjgyZWZiZDQ1M2Iz"
                 }],
          "type":"tilelayer",
          "visible":true,
