@@ -25,7 +25,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":":\/\/http:\/\/wdr-edge-2015-fra-lg-cdn.cast.addradio.de\/wdr\/1live\/live\/mp3\/128\/stream.mp3"
+                 "value":"http:\/\/wdr-edge-2015-fra-lg-cdn.cast.addradio.de\/wdr\/1live\/live\/mp3\/128\/stream.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
