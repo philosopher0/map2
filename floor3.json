@@ -25,7 +25,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/rautemusik-de-hz-fal-stream13.radiohost.de\/wackenraddio"
+                 "value":"https:\/\/rautemusik-de-hz-fal-stream13.radiohost.de\/wackenradio"
                 }],
          "type":"tilelayer",
          "visible":true,
